@@ -1,2 +1,2 @@
 # LLMtl
-The most powerful rust based, automatic light novel cross-translator
+The most powerful, automatic light novel cross-translator
